@@ -45,9 +45,13 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the a
 
 - Next.js
 - React
-- Google Gemini AI
+- Google Gemin AI
 - Tailwind CSS
 - React Dropzone
+  
+## Demo Vedio
+  
+https://github.com/user-attachments/assets/41783d44-2115-4a79-a54e-e94c2b95816e
 
 ## Note
 
