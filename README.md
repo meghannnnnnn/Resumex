@@ -53,6 +53,9 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the a
   
 https://github.com/user-attachments/assets/41783d44-2115-4a79-a54e-e94c2b95816e
 
+## Report
+[ProjectReport-R22EF120.pdf](https://github.com/user-attachments/files/23565593/ProjectReport-R22EF120.pdf)
+
 ## Note
 
 This application processes resume data and job descriptions locally in your browser. No data is stored on external servers except when making API calls to Google Gemini.
