@@ -49,6 +49,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the a
 - Tailwind CSS
 - React Dropzone
 
+## Project report
+
+[ProjectReport-R22EF120.pdf](https://github.com/user-attachments/files/23565383/ProjectReport.pdf)
+
 ## Note
 
 This application processes resume data and job descriptions locally in your browser. No data is stored on external servers except when making API calls to Google Gemini.
