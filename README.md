@@ -51,7 +51,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to use the a
 
 ## Project report
 
-[ProjectReport-R22EF120.pdf](https://github.com/user-attachments/files/23565383/ProjectReport.pdf)
+[ProjectReport-R22EF120.pdf](https://github.com/user-attachments/files/23565383/ProjectReport-R22EF120.pdf)
 
 ## Note
 
